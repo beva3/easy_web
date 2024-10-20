@@ -3,9 +3,12 @@
 int main(){
     printf("Content-Type:text/html\n\n");
     printf("<html><head>");
-
+    printf("<style>");
+        style();
+    printf("</style>");
     printf("</head><body>");
-    printf("<h1>Hello world !!!</h1>");
+    // printf("<h1>Hello world !!!</h1>");
+    demo();
     printf("</body></html>");
     return 0;
 }

@@ -3,5 +3,8 @@
 
     #include <stdio.h>
 
+    void demo();
+    void style();
+
 
 #endif // DEBUG
