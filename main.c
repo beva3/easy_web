@@ -9,6 +9,7 @@ int main(){
     printf("</head><body>");
     // printf("<h1>Hello world !!!</h1>");
     demo();
+    print_data();
     printf("</body></html>");
     return 0;
 }

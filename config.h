@@ -5,6 +5,7 @@
 
     void demo();
     void style();
+    void print_data();
 
 
 #endif // DEBUG
